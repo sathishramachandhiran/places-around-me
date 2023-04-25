@@ -10,9 +10,11 @@ Create a new Django project.
 Add a view and template to your Django project
 ### Step 3:
 Take screenshots of places around your house using Google Maps.
+
 https://www.google.com/maps/@13.0262105,80.0169595,304m/data=!3m1!1e3.
 ### Step 4:
 Identify a minimum of five different locations and mark them using image maps.
+
 https://www.image-maps.com/
 ### Step 5:
 Develop a webpage(minimum of 50 words) for each location and link it to the image region
@@ -100,7 +102,10 @@ home.html
 </html>
 ```
 ## Output:
+
 ![MAP](mymap.jpeg)
+
+
 ![HOME](home.png)
 
 ## Result:
