@@ -101,12 +101,150 @@ home.html
 
 </html>
 ```
+school.html
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        SCHOOL
+    </title>
+</head>
+<body>
+<h1 align="center">
+    <font color="blue" face="cursive" size >
+        GOVT. UNION MIDDLE SCHOOL
+    </font>
+</h1>
+<p align="center">
+    <font color="black" face="Comic Sans MS" size="24">
+        A school is an educational institution designed to provide learning spaces and learning environments for the teaching of students under the direction of teachers.<br>
+        Most countries have systems of formal education, which is sometimes compulsory. In these systems, students progress through a series of schools. <br>
+        The names for these schools vary by country but generally include primary school for young children and secondary school for teenagers who have completed primary education.<br>
+        An institution where higher education is taught is commonly called a university college or university. <br>
+    </font>
+    <font color ="red" face = "monospace" size ="16"> 
+       "Learn as much as you can while you are young, since life becomes too busy later."
+    </font>
+
+
+</p>
+
+</body>
+
+</html>
+```
+temple.html
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        TEMPLE
+    </title>
+</head>
+<body>
+<h1 align="center">
+    <font color="blue" face="cursive" size >
+        Nagalamman Temple    </font>
+</h1>
+<p align="center">
+    <font color="black" face="Comic Sans MS" size="24">
+        A Hindu temple is a symbolic house, the seat and dwelling of Hindu gods.<br>
+        It is a structure designed to bring human beings and gods together according to Hindu faith.<br>
+        Inside its garbhagriha innermost sanctum, a Hindu temple contains a murti or Hindu god's image.<br> 
+        Hindu temples are large and magnificent with a rich history.<br>
+        There is evidence of use of sacred ground as far back as the Bronze Age and later during the Indus Valley civilization.<br>
+    </font>
+    <font color ="red" face = "monospace" size ="16"> 
+        "The temple of our purest thoughts is silence." 
+    </font>
+
+
+</p>
+
+</body>
+
+</html>
+```
+college.html
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        COLLEGE
+    </title>
+</head>
+<body >
+<h1 align="center">
+    <font color="blue" face="cursive" size >
+        Bharathidasan Engineering College
+    </font>
+</h1>
+<p align="center">
+    <font color="black" face="Comic Sans MS" size="24">
+        A college (Latin: collegium) is an educational institution or a constituent part of one.<br>
+        A college may be a degree-awarding tertiary educational institution, a part of a collegiate or federal university,<br>
+        An institution offering vocational education, or a secondary school. <br>
+    </font>
+    <font color ="red" face = "monospace" size ="16" > 
+       "A College degree is not a sign of finished product but an indication a person is prepared for life"
+    </font>
+
+
+</p>
+
+</body>
+
+</html>
+```
+shop.html
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        SHOP
+    </title>
+</head>
+<body  >
+<h1 align="center">
+    <font color="blue" face="cursive" size >
+        BAKERY
+    </font>
+</h1>
+<p align="center">
+    <font color="black" size="24"face="Comic Sans MS">   
+        A bakery is an establishment that produces and sells flour-based food baked in an oven such as bread, cookies, cakes, doughnuts, bagels, pastries, and pies.<br>
+        Some retail bakeries are also categorized as cafés, serving coffee and tea to customers who wish to consume the baked goods on the premises.<br>
+        Confectionery items are also made in most bakeries throughout the world.<br>
+    </font>
+    <font color ="red" face = "monospace" size ="16"> 
+       "The more you know, the more you can create. There's no end to imagination in the kitchen.”
+    </font>
+
+
+</p>
+
+</body>
+
+</html>
+```
 ## Output:
-
+### MAP
 ![MAP](mymap.jpeg)
-
-
+### HOME
 ![HOME](home.png)
+### SCHOOL
+![SCHOOL](school.png)
+### TEMPLE
+![TEMPLE](temple.png)
+### COLLEGE
+![College](college.png)
+### SHOP
+![SHOP](shop.png)
+
 
 ## Result:
 Thus the locations are located and their informations are linked using HTML code.
